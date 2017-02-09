@@ -2,8 +2,7 @@
 
 This project is a simple Instagram-mock up based on instructions provided by YouTube video: "Make an instagram like site in under 30 minutes! (Ruby on Rails)", https://www.youtube.com/watch?v=MpFO4Zr0EPE. This web app supports login, registration, signout, creating a post of a picture and a description, and viewing all past posts. This project relies on Devise, Bootstrap, and Paperclip as frameworks to provide some of the above functionalities.
 
-* a description of the project (citing the original YouTube tutorial)
-* properly captioned screenshots of the main functionality you implemented (e.g., Register, Login/Logout, Adding a new post)
+Here are screenshots of the web-app.
 
 Sign Up:
 ![Screenshot of sign up](https://cloud.githubusercontent.com/assets/19598710/22769163/d133159c-ee3b-11e6-91b9-e0b307ab98da.png)
